@@ -1,0 +1,7 @@
+
+
+
+
+    activate bindingSims
+    jupyter lab
+    
